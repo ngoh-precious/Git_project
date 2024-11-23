@@ -36,6 +36,10 @@ body {
   padding: 0;
 }
 
+.navigation a:hover {
+  color: #007bff;
+}
+
 .navigation li {
   display: inline-block;
   margin-right: 20px;
